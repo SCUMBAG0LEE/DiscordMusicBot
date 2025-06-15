@@ -73,7 +73,7 @@ You'll need the following credentials:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/SCUMBAG0LEE/DiscordMusicBot.git
-    cd your-repo-name
+    cd DiscordMusicBot
     ```
 2.  **Install dependencies:**
     ```bash
