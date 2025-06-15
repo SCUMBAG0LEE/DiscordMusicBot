@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
     ```bash
     sudo apt install ffmpeg
     ```
-* **`libsodium-wrappers` (or `opus`):** Required for voice connections. Your `package.json` already lists `libsodium-wrappers`.
+* **`libsodium-wrappers` (or `opus`):** Required for voice connections. The `package.json` already lists `libsodium-wrappers`.
     ```bash
     sudo apt install libsodium-dev # For Debian/Ubuntu
     # Or, if using opus:
@@ -72,7 +72,7 @@ You'll need the following credentials:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SCUMBAG0LEE/DiscordMusicBot.git](https://github.com/SCUMBAG0LEE/DiscordMusicBot.git) 
+    git clone https://github.com/SCUMBAG0LEE/DiscordMusicBot.git
     cd your-repo-name
     ```
 2.  **Install dependencies:**
